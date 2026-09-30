@@ -1,8 +1,29 @@
-# E-Commerce-Data-Analytics-Project-With-Python-
-#!pip install plotly
-#import pandas as pd for cleaning 
-#import plotly.express as px for visulization of the graphs
-#import plotly.graph_objects as go use to make advance and customize the graphs
-#import plotly.io as pio use to customize the graph templates
-#import plotly.colors as colors
-pio.templates.default='plotly_white' 
+# E-Commerce Data Analytics Project
+
+## 📌 Overview
+A Python-based e-commerce analytics project designed to explore sales and customer data, identify trends, and generate actionable business insights.
+
+## 🧰 Tools
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## 🔎 Analysis Areas
+- Data cleaning and preparation
+- Sales trends
+- Product/category performance
+- Customer behaviour
+- Revenue analysis
+- Trend and pattern discovery
+
+## 📈 Project Outcome
+The project demonstrates an end-to-end analytics workflow from raw data preparation to visual analysis and business insights.
+
+## 🚀 Skills Demonstrated
+`Python` `Pandas` `NumPy` `EDA` `Data Visualization` `Business Analytics`
+
+## 👤 Author
+**Gagan Sidhu** — Data Analyst
